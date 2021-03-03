@@ -1,1 +1,54 @@
+# Mobile Application 
+
+## Tilt Maze
+
+
+
+*Author: Mike Falk*
+
+----
+
+## Description
+This is a C# Xamarin mobile application that will emulate the old tilt mazes that we used to get as party favors when we were kids on a mobile device. The user will hold their device flat and the app will access the accelerometer to determine pitch and simulate rolling a ball(ellipse) through a maze to a target on the other side of the screen. An additional surprise will occur when the user gets the ellipse in the target. The phone will take a selfie shot and save it to their photo album.
+
+---
+
+### Getting Started
+Download this app from the app store?
+
+```
+
+```
+
+### To run the program from Visual Studio:
+Select ```File``` -> ```Open``` -> ```Project/Solution```
+
+Next navigate to the location you cloned the Repository.
+
+Double click on the ```TiltMapApp``` directory.
+
+Then select and open ```AwesomeApp.sln```
+
+---
+
+### Visuals
+
+
+#### Application MockUp
+![MockUp](../Assets/Tilt_Maze_Mockup.png)
+#### Using the Application
+
+#### Application End
+
+
+---
+
+### Change Log
+***[The change log will list any changes made to the code base. This includes any changes from TA/Instructor feedback]***  
+1.1: *Added Mockup Image and initial application scafolding* - 2 Mar 2021  
+
+
+
+
+------------------------------
 
