@@ -38,7 +38,7 @@ namespace AwesomeApp.ViewModels
             OnPropertyChanged(propertyName);
             return true;
         }
-
+      
         #region INotifyPropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnPropertyChanged([CallerMemberName] string propertyName = "")
